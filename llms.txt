@@ -1,0 +1,7 @@
+# t index pack
+> Theme Index Probe landing for Google user-site indexing.
+
+- Home: https://Theme-Index-Probe.github.io/
+- FAQ: https://Theme-Index-Probe.github.io/faq.html
+- Install: https://Theme-Index-Probe.github.io/install.html
+- Repository: https://github.com/Theme-Index-Probe/_t_index_pack
